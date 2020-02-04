@@ -207,7 +207,7 @@ Let's just show how to call it. Later, you can read more in this blog and th
 Now run a provided lab script that calls the metrics API and evaluates the results against target service levels.
 
 ```
-cd ~/workshop/helper-scripts/scripts
+cd ~/workshop/helper-scripts
 ./validate-service-levels.sh
 ```
 
@@ -218,7 +218,7 @@ There is verbose output that shows the call to the API and the JSON results.  Bu
 Stop the running application so that we can run the next lab
 
 ```
-cd ~/helper-scripts
+cd ~/workshop/helper-scripts
 ./forcestop.sh
 ```
 
