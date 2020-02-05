@@ -35,7 +35,12 @@ Jenkins Server
 http://x.x.x.x:8080
 ```
 
-Now open Jenkins in a browser and login with the credentials provided
+Now open Jenkins in a browser and login with the credentials provided:
+
+```
+Username: admin
+Password: adminJenkins
+```
 
 <img src="images/jenkins-login.png"  width="400">
 
@@ -45,7 +50,7 @@ The pipeline we have provided will deploy the application, execute tests, and pu
 
 <img src="images/jenkins-flow.png" >
 
-1. Navigate to the ```lab3``` section and click on the "pipeline" task
+1. Navigate to the ```lab4``` section and click on the "pipeline" task
 
     <img src="images/jenkins-job.png" >
 
